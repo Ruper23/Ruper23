@@ -28,7 +28,7 @@
 <img align="left" alt="figma" width="36px" src="https://user-images.githubusercontent.com/64148185/203286801-8868fa1e-9964-429b-97f6-ba50a967b974.png">
 <img align="left" alt="photoshop" width="36px" src="https://user-images.githubusercontent.com/64148185/203287971-dc0b37a6-b5d7-4672-9243-17dfbfc09da3.png">
 <img align="left" alt="git" width="36px" src="https://user-images.githubusercontent.com/64148185/203288446-e8fa2f9d-fcad-4bee-a30b-f15788419028.png">
-<img align="left" alt="git" width="98px" height="36px" src="https://cms.pixso.net/images/px-logo-white.png">
+<img align="left" alt="pixso" width="98px" height="36px" src="https://cms.pixso.net/images/px-logo-white.png">
 
 
 
