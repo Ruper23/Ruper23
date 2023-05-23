@@ -5,7 +5,7 @@
 
 
 # My name is Vitali. 
-## I'm HTML Coder / Frontend developer(Beginner) 
+## I'm HTML Coder / Frontend developer 
   
    <a href="https://www.linkedin.com/in/vitali-skarbinski-fe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,8 +13,9 @@
   
  </div>
  
-#### :man_facepalming: _Love do something interesting with CSS_
-
+<!-- #### :man_facepalming: _Love do something interesting with CSS_ -->
+#### 🔥_Tired of freelancing...I want go to the office..._🔥
+##### 🎩 _stable as a road hatch_ 🎩 
 <br>
 <hr>
 
@@ -28,7 +29,7 @@
 <img align="left" alt="figma" width="36px" src="https://user-images.githubusercontent.com/64148185/203286801-8868fa1e-9964-429b-97f6-ba50a967b974.png">
 <img align="left" alt="photoshop" width="36px" src="https://user-images.githubusercontent.com/64148185/203287971-dc0b37a6-b5d7-4672-9243-17dfbfc09da3.png">
 <img align="left" alt="git" width="36px" src="https://user-images.githubusercontent.com/64148185/203288446-e8fa2f9d-fcad-4bee-a30b-f15788419028.png">
-<img align="left" alt="pixso" width="98px" height="36px" src="https://cms.pixso.net/images/px-logo-white.png">
+<!-- <img align="left" alt="pixso" width="98px" height="36px" src="https://cms.pixso.net/images/px-logo-white.png"> -->
 
 
 
