@@ -14,8 +14,9 @@
  </div>
  
 <!-- #### :man_facepalming: _Love do something interesting with CSS_ -->
-#### 🔥_Tired of freelancing...I want go to the office..._🔥
-##### 🎩 _stable as a road hatch_ 🎩 
+# <img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/cd807b2c-0dfa-4aee-b2df-85c622c96519" /> https://vandlnotes.com/
+ 
+##### 
 <br>
 <hr>
 
